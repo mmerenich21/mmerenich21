@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 👋 I’m Matt.
-- 💬 I'm a masters student at Drexel.
-- 👀 I’m interested in marketing and customer analytics.
-- 🌱 I’m currently learning web scraping and recommender systems.
-- 💞️ I’m looking to collaborate on e-commerce projects.
+- 💻 I work with data and clients at Criteo.
+- 🖼️ I have a DS masters from Drexel.
+- 👀 I’m interested in MLOps and integrating AI into business tasks.
+- 🌱 I’m currently mastering KNN models.
+- 💞️ I’m looking to collaborate on cool projects.
 
